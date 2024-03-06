@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297383751582",
+    "project_id": "chat-firebase-cc625",
+    "storage_bucket": "chat-firebase-cc625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297383751582:android:4d637ee232d42381f5b08f",
+        "android_client_info": {
+          "package_name": "com.kotlinpl.fbchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtAZfb3UCJnsmfi-H6EuVW6zg0-UzWCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
