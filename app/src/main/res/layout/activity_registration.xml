@@ -6,15 +6,15 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="kotlinpl.fbchat.chat.RegisterActivity">
+    tools:context="kotlinpl.fbchat.chat.SignUpActivity">
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/label_sign_up"
         android:textStyle="bold"
         android:padding="12dp"
-        android:layout_marginStart="15dp"
+        android:layout_marginStart="0dp"
         android:layout_marginBottom="10dp"
         android:fontFamily="@font/gilroy_bold"
 
@@ -93,17 +93,28 @@
             android:layout_marginEnd="2dp"
             android:textColor="@color/colorAccent"
             android:text="@string/label_sign_up"/>
+
         <Button
             android:id="@+id/btnLogin"
+            style="@style/Widget.Material3.Button.Icon"
             android:layout_width="0dp"
-            android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:background="@color/colorTextBackground"
             android:layout_marginStart="2dp"
+            android:layout_weight="1"
+            android:background="@color/colorTextBackground"
+            android:backgroundTint="#7A4A4A"
+            android:backgroundTintMode="screen"
+            android:foregroundTint="#9A6767"
+            android:text="@string/btn_login"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
             android:textColor="@color/colorAccent"
-            android:text="@string/btn_login"/>
+            android:textColorLink="#000000"
+            android:theme="@style/Button.Black"
+            android:visibility="visible"
+            app:iconTint="#9A9A9A" />
+
     </LinearLayout>
-    
+
 
 
 </LinearLayout>
