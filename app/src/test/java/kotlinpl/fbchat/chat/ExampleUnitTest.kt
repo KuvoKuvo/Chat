@@ -1,4 +1,4 @@
-package com.example.chat
+package kotlinpl.fbchat.chat
 
 import org.junit.Test
 
