@@ -7,7 +7,10 @@
     <string name="name">Name</string>
     <string name="let_s_chat">Let\'s chat!</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="profile_name">Profile Name</string>
 =======
 >>>>>>> 9dcfcc5 (Users list and user avatars)
+=======
+>>>>>>> 9dcfcc5eb4e439b53efbe2b5c2979cde1709cc2b
 </resources>

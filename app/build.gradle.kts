@@ -15,7 +15,10 @@ android {
     buildFeatures {
         viewBinding = true
     }
+<<<<<<< HEAD
 >>>>>>> 9dcfcc5 (Users list and user avatars)
+=======
+>>>>>>> 9dcfcc5eb4e439b53efbe2b5c2979cde1709cc2b
 
     defaultConfig {
         applicationId = "com.kotlinpl.fbchat"
@@ -62,7 +65,10 @@ android {
 dependencies {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9dcfcc5eb4e439b53efbe2b5c2979cde1709cc2b
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")
@@ -81,5 +87,8 @@ dependencies {
     implementation("com.google.firebase:firebase-auth:22.3.1")
     implementation("com.google.firebase:firebase-database:20.3.1")
 
+<<<<<<< HEAD
 >>>>>>> 9dcfcc5 (Users list and user avatars)
+=======
+>>>>>>> 9dcfcc5eb4e439b53efbe2b5c2979cde1709cc2b
 }

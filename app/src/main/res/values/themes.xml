@@ -1,9 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
 <<<<<<< HEAD
+<<<<<<< HEAD
     <style name="Base.Theme.Chat" parent="Theme.Material3.DayNight.NoActionBar">
 
 =======
+=======
+>>>>>>> 9dcfcc5eb4e439b53efbe2b5c2979cde1709cc2b
     <style name="Base.Theme.Chat" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->

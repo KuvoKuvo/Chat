@@ -27,10 +27,14 @@
             <TextView
                 android:id="@+id/username"
 <<<<<<< HEAD
+<<<<<<< HEAD
                 android:text="@string/profile_name"
 =======
                 android:text="Profile Name"
 >>>>>>> 9dcfcc5 (Users list and user avatars)
+=======
+                android:text="Profile Name"
+>>>>>>> 9dcfcc5eb4e439b53efbe2b5c2979cde1709cc2b
                 android:layout_marginTop="5dp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/gilroy_bold"

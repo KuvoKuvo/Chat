@@ -2,9 +2,13 @@
   "project_info": {
     "project_number": "297383751582",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     "firebase_url": "https://chat-firebase-cc625-default-rtdb.firebaseio.com",
 >>>>>>> 9dcfcc5 (Users list and user avatars)
+=======
+    "firebase_url": "https://chat-firebase-cc625-default-rtdb.firebaseio.com",
+>>>>>>> 9dcfcc5eb4e439b53efbe2b5c2979cde1709cc2b
     "project_id": "chat-firebase-cc625",
     "storage_bucket": "chat-firebase-cc625.appspot.com"
   },
