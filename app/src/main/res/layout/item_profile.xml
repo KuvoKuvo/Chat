@@ -26,7 +26,11 @@
             android:layout_height="wrap_content">
             <TextView
                 android:id="@+id/username"
+<<<<<<< HEAD
                 android:text="@string/profile_name"
+=======
+                android:text="Profile Name"
+>>>>>>> 9dcfcc5 (Users list and user avatars)
                 android:layout_marginTop="5dp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/gilroy_bold"

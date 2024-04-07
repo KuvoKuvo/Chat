@@ -6,5 +6,8 @@
     <string name="sign_up">Sign Up</string>
     <string name="name">Name</string>
     <string name="let_s_chat">Let\'s chat!</string>
+<<<<<<< HEAD
     <string name="profile_name">Profile Name</string>
+=======
+>>>>>>> 9dcfcc5 (Users list and user avatars)
 </resources>

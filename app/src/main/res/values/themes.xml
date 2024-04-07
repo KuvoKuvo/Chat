@@ -1,7 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.Chat" parent="Theme.Material3.DayNight.NoActionBar">
 
+=======
+    <style name="Base.Theme.Chat" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+>>>>>>> 9dcfcc5 (Users list and user avatars)
     </style>
 
     <style name="Theme.Chat" parent="Base.Theme.Chat" />
